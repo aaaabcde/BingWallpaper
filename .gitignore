@@ -1,3 +1,14 @@
+
+**/.DS_store
+.idea/
+*.iml
+*.log
+*.exe
+*.bat
+/.settings/
+/.classpath
+/.project
+
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
@@ -14,12 +25,4 @@ _book
 *.epub
 *.mobi
 *.pdf
-
-**/.DS_store
-.idea/
-*.iml
-*.log
-/.settings/
-/.classpath
-/.project
 
